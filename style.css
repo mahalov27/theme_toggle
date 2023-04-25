@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  transition: 0.3s;
+}
 .blackTheme{
     background: rgb(41, 41, 41);
 }

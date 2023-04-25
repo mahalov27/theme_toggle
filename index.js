@@ -1,6 +1,6 @@
 const switchToogle = document.querySelector(".switchToogle");
-const clouds = document.querySelector(".cloudBlock");
 const background = document.querySelector(".bg");
+const clouds = document.querySelector(".cloudBlock");
 const backClouds = document.querySelector(".backCloudsBlock");
 const moon = document.querySelector(".moon");
 const body = document.querySelector("body");
